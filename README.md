@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucho2030
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript, Angular & Vue.JS
+- 🌱 I’m currently learning JavaScript, Reacy & Vue.JS
 - 📫 How to reach me: linkedin.com/brunolucho
 
 <!---
