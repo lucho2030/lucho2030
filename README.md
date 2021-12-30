@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lucho2030
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript, Reacy & Vue.JS
-- 📫 How to reach me: linkedin.com/brunolucho
+This is my portfolio! Hope you like it!
 
 <!---
 lucho2030/lucho2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
