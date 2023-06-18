@@ -1,4 +1,4 @@
-Hello! My name is Bruno. I came in peace! 👽:vulcan_salute:
+Hello! My name is Bruno.
 
 This is my portfolio! Hope you like it! 
 
